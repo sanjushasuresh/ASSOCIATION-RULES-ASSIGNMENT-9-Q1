@@ -2,7 +2,7 @@
 """
 Created on Sun Nov 20 11:11:47 2022
 
-@author: LENOVO
+@author: SANJUSHA
 """
 
 # pip install apyori
